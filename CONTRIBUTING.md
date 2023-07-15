@@ -4,7 +4,7 @@ Thanks for considering to contribute to Hover.css. To improve your chances of ha
 
 ## Guidelines for Effects
 
-1. Effects should work with only one HTML element. This way, developers only need add a class to their element for your fancy effect to work on their page. CSS pseudo-elements are perfectly acceptable as they don't require additional changes to HTML.
+1. Effects should work with only one HTML element. This way, developers only need to add a class to their element for your fancy effect to work on their page. CSS pseudo-elements are perfectly acceptable as they don't require additional changes to HTML.
 
 2. Aim to provide subtle effects that enhance user experience.
 
